@@ -1,3 +1,6 @@
+phaser3を用いたtypescriptで作成したブラウザ上のゲームになります。
+
+
 //20230613
 こちらを動かすためにはnode.js および npmコマンドをローカル環境に用意する必要があります。
 
@@ -23,3 +26,11 @@ phaser3 for typscript
 
 インストール済み未使用
 ・axios・・・・サーバー送信用
+
+素材
+画像
+https://www.irasutoya.com/
+
+BGM
+https://amachamusic.chagasi.com/
+https://soundeffect-lab.info/sound/anime/
